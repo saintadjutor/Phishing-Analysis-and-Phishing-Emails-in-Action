@@ -1,7 +1,7 @@
 <h1>Phishing Analysis Fundamentals and Phishing Emails in Action</h1>
 
 <h2>Description</h2>
-Project consists of two TryHackMe rooms centered around analyzing phishing attacks and strategies. Descriptions, pictures, and task answers will be provided. The report can be used as a guide for both rooms.
+Project consists of two TryHackMe rooms centered around analyzing phishing attacks and strategies. Descriptions, pictures, and task answers will be provided. The report can be used as a guide for both rooms. The report can be acessed via the Word Document.
 <br />
 
 <h2>Tools used</h2>
